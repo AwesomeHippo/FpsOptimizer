@@ -1,0 +1,9 @@
+{
+  "fpsoptimizer.configuration.section.fpsoptimizer.client.toml.title": "Configuration de FPS Optimizer",
+  "fpsoptimizer.config.default_fps": "FPS par défaut",
+  "fpsoptimizer.config.idle_fps": "FPS mode inactif",
+  "fpsoptimizer.config.afk_timeout": "Délai d'inactivité avant AFK",
+  "fpsoptimizer.config.show_idle_message": "Afficher le message d'inactivité",
+  "fpsoptimizer.config.idle_message": "Message d'inactivité",
+  "fpsoptimizer.config.dark_background": "Fond sombre"
+}
