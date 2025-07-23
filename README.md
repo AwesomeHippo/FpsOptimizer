@@ -7,6 +7,6 @@ Reduces FPS when idle/AFK to save resources (customizable) - Simple with no bloa
 <br>
 To see the full mod description, its features and how to configure it, check out the CurseForge page: https://www.curseforge.com/minecraft/mc-mods/fps-optimizer
 
-# Version
+## Version
 <span>
 This branch is for <strong>NeoForge 1.21.1</strong>. Check other branches for the other versions/loaders.
