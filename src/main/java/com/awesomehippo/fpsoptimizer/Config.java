@@ -19,7 +19,7 @@ public class Config {
         IDLE_FPS = BUILDER.translation("fpsoptimizer.config.idle_fps").defineInRange("idle_fps", 15, 10, 260);
         AFK_TIMEOUT = BUILDER.translation("fpsoptimizer.config.afk_timeout").defineInRange("afk_timeout", 12, 1, 3600);
         SHOW_IDLE_MESSAGE = BUILDER.translation("fpsoptimizer.config.show_idle_message").define("show_idle_message", true);
-        IDLE_MESSAGE = BUILDER.translation("fpsoptimizer.config.idle_message").define("idle_message", "Detected inactivity: FPS reduced to %s");
+        IDLE_MESSAGE = BUILDER.translation("fpsoptimizer.config.idle_message").define("idle_message", "fpsoptimizer.config.default_idle_message");
         DARK_BACKGROUND = BUILDER.translation("fpsoptimizer.config.dark_background").define("dark_background", true);
     }
 
